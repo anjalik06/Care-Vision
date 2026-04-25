@@ -1,0 +1,6 @@
+flask
+flask-cors
+flask-sqlalchemy
+requests
+python-dotenv
+twilio

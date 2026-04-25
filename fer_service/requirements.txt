@@ -1,0 +1,9 @@
+opencv-python
+numpy
+tensorflow
+deepface
+flask
+flask-cors
+requests
+twilio
+python-dotenv
